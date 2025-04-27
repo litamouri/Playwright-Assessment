@@ -26,6 +26,7 @@ npm or yarn
 Clone the repository:
 
 git clone https://github.com/litamouri/Playwright-Assessment
+
 Install dependencies:
 
 npm install
